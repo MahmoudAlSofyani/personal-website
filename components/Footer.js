@@ -8,10 +8,16 @@ const Footer = () => {
     <>
       <div className={css.container}>
         <div className={css.socialIcons}>
-          <a href="https://www.github.com/mahmoudalsofyani">
+          <a
+            href="https://www.github.com/mahmoudalsofyani"
+            aria-label="https://www.github.com/mahmoudalsofyani"
+          >
             <GoMarkGithub className={css.icon} />
           </a>
-          <a href="https://www.linkedin.com/in/mahmoudalsofyani">
+          <a
+            href="https://www.linkedin.com/in/mahmoudalsofyani"
+            aria-lable="https://www.linkedin.com/in/mahmoudalsofyani"
+          >
             <GrLinkedin className={css.icon} />
           </a>
         </div>

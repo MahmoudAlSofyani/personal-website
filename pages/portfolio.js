@@ -42,7 +42,10 @@ const Portfolio = () => {
       <Navbar />
       <section className={css.portfolioSection}>
         <div className={css.snapshotContainer}>
-          <img src="./images/dvu-website-snapshot.png" />
+          <img
+            src="./images/dvu-website-snapshot.png"
+            alt="Der Volkskreis UAE website snapshot on mobile and computer"
+          />
         </div>
         <div className={css.container}>
           <h3>Der Volkskreis UAE</h3>
@@ -64,7 +67,10 @@ const Portfolio = () => {
         </div>
         <div className={css.divider}></div>
         <div className={css.snapshotContainer}>
-          <img src="./images/mission-website-snapshot.png" />
+          <img
+            src="./images/mission-website-snapshot.png"
+            alt="Mission Motorsport Dubai website snapshot on mobile and computer"
+          />
         </div>
         <div className={css.container}>
           <h3>Mission Motorsport Dubai</h3>

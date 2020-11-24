@@ -13,6 +13,18 @@ export default function Home() {
           name="description"
           content="Freelance software developer based in Dubai. Contact me if you need any software development services such as websites, back-ends, & mobile applications."
         />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="32x32"
+          href="./favicon-32x32.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="16x16"
+          href="./favicon-16x16.png"
+        />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://mahmoudalsofyani.dev" />

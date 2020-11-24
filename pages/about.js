@@ -44,7 +44,7 @@ const About = () => {
           </p>
           <p>
             I love spending my free time writing code, go for joy rides and
-            discover new music.
+            discovering new music.
           </p>
         </div>
       </section>

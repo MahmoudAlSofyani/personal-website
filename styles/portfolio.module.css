@@ -26,6 +26,8 @@
 
 .container p {
   line-height: 2rem;
+  max-width: 60ch;
+  margin: 1rem auto;
 }
 
 .container a {

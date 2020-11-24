@@ -70,6 +70,7 @@ const Skills = () => {
           <ul>
             <li>C / C++</li>
             <li>Java</li>
+            <li>JavaScript</li>
           </ul>
         </div>
         <div className={css.toolsetContainer}>
