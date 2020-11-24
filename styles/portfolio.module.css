@@ -1,0 +1,57 @@
+.portfolioSection {
+  font-family: "Josefin Sans", sans-serif;
+  color: #d8dbe2;
+}
+
+.snapshotContainer {
+  width: 18rem;
+  display: block;
+  margin: 1rem auto 0 auto;
+}
+
+.snapshotContainer img {
+  width: 100%;
+  height: auto;
+}
+
+.container {
+  text-align: center;
+  margin: 0 1rem;
+}
+
+.container h3 {
+  color: #00adb5;
+  font-size: 1.2rem;
+}
+
+.container p {
+  line-height: 2rem;
+}
+
+.container a {
+  text-decoration-color: #00adb5;
+  text-underline-offset: 6px;
+  text-decoration-thickness: 2px;
+  color: #d8dbe2;
+}
+.container h4 {
+  color: #00adb5;
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+.container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.container li {
+  line-height: 1.5rem;
+}
+
+.divider {
+  border: 2px solid #00adb5;
+  border-radius: 5px;
+  width: 50%;
+  margin: 2rem auto;
+}

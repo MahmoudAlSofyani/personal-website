@@ -1,0 +1,31 @@
+.skillsSection {
+  font-family: "Josefin Sans", sans-serif;
+  color: #d8dbe2;
+}
+
+.frontendContainer,
+.backendContainer,
+.mobileContainer,
+.languagesContainer,
+.toolsetContainer {
+  text-align: center;
+  padding: 1rem;
+}
+.frontendContainer h4,
+.backendContainer h4,
+.mobileContainer h4,
+.languagesContainer h4,
+.toolsetContainer h4 {
+  color: #00adb5;
+  font-size: 1.2rem;
+}
+
+.frontendContainer ul,
+.backendContainer ul,
+.mobileContainer ul,
+.languagesContainer ul,
+.toolsetContainer ul {
+  list-style-type: none;
+  padding: 0;
+  line-height: 2rem;
+}

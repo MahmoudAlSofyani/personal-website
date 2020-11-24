@@ -1,0 +1,23 @@
+.aboutSection {
+  font-family: "Josefin Sans", sans-serif;
+  color: #d8dbe2;
+}
+
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 65vh;
+  margin: 0 1rem;
+  align-items: center;
+  line-height: 2rem;
+}
+
+.container p {
+  font-size: 1.25rem;
+}
+
+.container span {
+  color: #00adb5;
+}

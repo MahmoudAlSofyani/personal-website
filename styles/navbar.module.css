@@ -1,0 +1,52 @@
+.navContainer {
+  font-family: "Josefin Sans", sans-serif;
+  /* padding: 0.5rem 2.5rem; */
+  height: 5vh;
+}
+
+.navContainer ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+.navContainer ul li.links {
+  position: relative;
+  width: auto;
+  text-align: center;
+  margin: 0 1rem;
+  order: 3;
+}
+
+.logoContainer {
+  width: 15rem;
+  height: auto;
+  margin: auto;
+}
+
+.logoContainer img {
+  width: 100%;
+  height: auto;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.navContainer ul li a {
+  color: #00adb5;
+  font-size: 1.1rem;
+  text-decoration: none;
+  transition: 0.4s;
+}
+
+.navContainer ul li:hover a {
+  color: #d8dbe2;
+}
+
+@media only screen and (min-width: 900px) {
+  .navContainer ul li a {
+    font-size: 1.5rem;
+  }
+}
