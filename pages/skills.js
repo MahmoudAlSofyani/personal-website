@@ -46,6 +46,7 @@ const Skills = () => {
             <li>jQuery</li>
             <li>JavaScript / Node JS</li>
             <li>React JS</li>
+            <li>Next JS</li>
           </ul>
         </div>
         <div className={css.backendContainer}>
