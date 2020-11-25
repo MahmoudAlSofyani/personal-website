@@ -36,7 +36,7 @@ export default function Home() {
           property="og:description"
           content="Freelance software developer based in Dubai. Contact me if you need any software development services such as websites, back-ends, & mobile applications."
         />
-        <meta property="og:image" content="./logo/black_logo.png" />
+        <meta property="og:image" content="./logo/black_logo.jpeg" />
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://mahmoudalsofyani.dev" />
@@ -48,7 +48,7 @@ export default function Home() {
           property="twitter:description"
           content="Freelance software developer based in Dubai. Contact me if you need any software development services such as websites, back-ends, & mobile applications."
         />
-        <meta property="twitter:image" content="./logo/black_logo.png" />
+        <meta property="twitter:image" content="./logo/black_logo.jpeg" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
           href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500&display=swap"
